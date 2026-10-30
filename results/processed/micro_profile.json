@@ -1,0 +1,24 @@
+{
+ "build/micro_b0.elf": {
+  "total": 462001,
+  "mix": {
+   "alu": 203001,
+   "jump": 1000,
+   "branch": 66000,
+   "load": 128000,
+   "multiply": 64000
+  },
+  "exit": 0
+ },
+ "build/micro_x1.elf": {
+  "total": 81001,
+  "mix": {
+   "alu": 45001,
+   "jump": 1000,
+   "branch": 11000,
+   "load": 16000,
+   "qmac8": 8000
+  },
+  "exit": 0
+ }
+}

@@ -1,0 +1,44 @@
+{
+ "b0": {
+  "instret": 12971052055,
+  "histogram": 12971051944,
+  "raw_diff": 111,
+  "diff_after_37x3": 0
+ },
+ "b1": {
+  "instret": 7540125159,
+  "histogram": 7540125048,
+  "raw_diff": 111,
+  "diff_after_37x3": 0
+ },
+ "x0": {
+  "instret": 1289122063,
+  "histogram": 1289121952,
+  "raw_diff": 111,
+  "diff_after_37x3": 0
+ },
+ "x1": {
+  "instret": 1169118606,
+  "histogram": 1169118495,
+  "raw_diff": 111,
+  "diff_after_37x3": 0
+ },
+ "x1t": {
+  "instret": 1159348913,
+  "histogram": 1159348802,
+  "raw_diff": 111,
+  "diff_after_37x3": 0
+ },
+ "x2": {
+  "instret": 825802760,
+  "histogram": 825802649,
+  "raw_diff": 111,
+  "diff_after_37x3": 0
+ },
+ "x2t": {
+  "instret": 818638687,
+  "histogram": 818638576,
+  "raw_diff": 111,
+  "diff_after_37x3": 0
+ }
+}

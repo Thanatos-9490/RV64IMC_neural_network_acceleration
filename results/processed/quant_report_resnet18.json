@@ -1,0 +1,11 @@
+{
+  "model": "resnet18",
+  "eval_images": 500,
+  "calib_images": 50,
+  "preprocess": "resize256+centercrop224, ImageNet mean/std",
+  "fp32_top1": 0.644,
+  "w8a8_top1": 0.658,
+  "w8a8_bytes": 11871136,
+  "w8a16_top1": 0.652,
+  "w8a16_bytes": 11894336
+}

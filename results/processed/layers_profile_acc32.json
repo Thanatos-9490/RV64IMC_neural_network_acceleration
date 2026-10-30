@@ -1,0 +1,1241 @@
+{
+ "b0/op02": {
+  "total": 878290083,
+  "mix": {
+   "alu": 389324929,
+   "store": 802828,
+   "load": 244068624,
+   "branch": 125251845,
+   "jump": 1,
+   "multiply": 118841856
+  },
+  "exit": 0,
+  "macs": 118013952,
+  "outputs": 802816
+ },
+ "b0/op05": {
+  "total": 822311081,
+  "mix": {
+   "load": 233221200,
+   "store": 200716,
+   "alu": 355661703,
+   "branch": 117414981,
+   "jump": 1,
+   "multiply": 115812480
+  },
+  "exit": 0,
+  "macs": 115605504,
+  "outputs": 200704
+ },
+ "b0/op06": {
+  "total": 822210816,
+  "mix": {
+   "store": 200716,
+   "alu": 355561438,
+   "load": 233221200,
+   "branch": 117414981,
+   "jump": 1,
+   "multiply": 115812480
+  },
+  "exit": 0,
+  "macs": 115605504,
+  "outputs": 200704
+ },
+ "b0/op08": {
+  "total": 822311449,
+  "mix": {
+   "load": 233221200,
+   "store": 200716,
+   "alu": 355662071,
+   "branch": 117414981,
+   "jump": 1,
+   "multiply": 115812480
+  },
+  "exit": 0,
+  "macs": 115605504,
+  "outputs": 200704
+ },
+ "b0/op09": {
+  "total": 822206123,
+  "mix": {
+   "store": 200716,
+   "alu": 355556745,
+   "load": 233221200,
+   "branch": 117414981,
+   "jump": 1,
+   "multiply": 115812480
+  },
+  "exit": 0,
+  "macs": 115605504,
+  "outputs": 200704
+ },
+ "b0/op12": {
+  "total": 411148742,
+  "mix": {
+   "load": 116609824,
+   "store": 100364,
+   "alu": 177827172,
+   "branch": 58706709,
+   "jump": 1,
+   "multiply": 57904672
+  },
+  "exit": 0,
+  "macs": 57802752,
+  "outputs": 100352
+ },
+ "b0/op13": {
+  "total": 815719840,
+  "mix": {
+   "store": 100364,
+   "alu": 351187262,
+   "load": 232215328,
+   "branch": 116509461,
+   "jump": 1,
+   "multiply": 115707424
+  },
+  "exit": 0,
+  "macs": 115605504,
+  "outputs": 100352
+ },
+ "b0/op14": {
+  "total": 51437550,
+  "mix": {
+   "store": 100364,
+   "alu": 23636876,
+   "load": 13849376,
+   "branch": 7326485,
+   "jump": 1,
+   "multiply": 6524448
+  },
+  "exit": 0,
+  "macs": 6422528,
+  "outputs": 100352
+ },
+ "b0/op16": {
+  "total": 815767991,
+  "mix": {
+   "load": 232215328,
+   "store": 100364,
+   "alu": 351235413,
+   "branch": 116509461,
+   "jump": 1,
+   "multiply": 115707424
+  },
+  "exit": 0,
+  "macs": 115605504,
+  "outputs": 100352
+ },
+ "b0/op17": {
+  "total": 815699878,
+  "mix": {
+   "store": 100364,
+   "alu": 351167300,
+   "load": 232215328,
+   "branch": 116509461,
+   "jump": 1,
+   "multiply": 115707424
+  },
+  "exit": 0,
+  "macs": 115605504,
+  "outputs": 100352
+ },
+ "b0/op20": {
+  "total": 407882131,
+  "mix": {
+   "load": 116107476,
+   "store": 50188,
+   "alu": 175616609,
+   "branch": 58254537,
+   "jump": 1,
+   "multiply": 57853320
+  },
+  "exit": 0,
+  "macs": 57802752,
+  "outputs": 50176
+ },
+ "b0/op21": {
+  "total": 812475943,
+  "mix": {
+   "store": 50188,
+   "alu": 348999413,
+   "load": 231712980,
+   "branch": 116057289,
+   "jump": 1,
+   "multiply": 115656072
+  },
+  "exit": 0,
+  "macs": 115605504,
+  "outputs": 50176
+ },
+ "b0/op22": {
+  "total": 48193746,
+  "mix": {
+   "store": 50188,
+   "alu": 21449120,
+   "load": 13347028,
+   "branch": 6874313,
+   "jump": 1,
+   "multiply": 6473096
+  },
+  "exit": 0,
+  "macs": 6422528,
+  "outputs": 50176
+ },
+ "b0/op24": {
+  "total": 812501332,
+  "mix": {
+   "load": 231712980,
+   "store": 50188,
+   "alu": 349024802,
+   "branch": 116057289,
+   "jump": 1,
+   "multiply": 115656072
+  },
+  "exit": 0,
+  "macs": 115605504,
+  "outputs": 50176
+ },
+ "b0/op25": {
+  "total": 812465047,
+  "mix": {
+   "store": 50188,
+   "alu": 348988517,
+   "load": 231712980,
+   "branch": 116057289,
+   "jump": 1,
+   "multiply": 115656072
+  },
+  "exit": 0,
+  "macs": 115605504,
+  "outputs": 50176
+ },
+ "b0/op28": {
+  "total": 406250266,
+  "mix": {
+   "load": 115856449,
+   "store": 25100,
+   "alu": 174512180,
+   "branch": 58028598,
+   "jump": 1,
+   "multiply": 57827938
+  },
+  "exit": 0,
+  "macs": 57802752,
+  "outputs": 25088
+ },
+ "b0/op29": {
+  "total": 810852564,
+  "mix": {
+   "store": 25100,
+   "alu": 347903470,
+   "load": 231461953,
+   "branch": 115831350,
+   "jump": 1,
+   "multiply": 115630690
+  },
+  "exit": 0,
+  "macs": 115605504,
+  "outputs": 25088
+ },
+ "b0/op30": {
+  "total": 46568378,
+  "mix": {
+   "store": 25100,
+   "alu": 20351188,
+   "load": 13096001,
+   "branch": 6648374,
+   "jump": 1,
+   "multiply": 6447714
+  },
+  "exit": 0,
+  "macs": 6422528,
+  "outputs": 25088
+ },
+ "b0/op32": {
+  "total": 810869642,
+  "mix": {
+   "load": 231461953,
+   "store": 25100,
+   "alu": 347920548,
+   "branch": 115831350,
+   "jump": 1,
+   "multiply": 115630690
+  },
+  "exit": 0,
+  "macs": 115605504,
+  "outputs": 25088
+ },
+ "b0/op33": {
+  "total": 810855481,
+  "mix": {
+   "store": 25100,
+   "alu": 347906387,
+   "load": 231461953,
+   "branch": 115831350,
+   "jump": 1,
+   "multiply": 115630690
+  },
+  "exit": 0,
+  "macs": 115605504,
+  "outputs": 25088
+ },
+ "b0/op36": {
+  "total": 3648519,
+  "mix": {
+   "multiply": 513002,
+   "load": 1034017,
+   "store": 1012,
+   "alu": 1579481,
+   "branch": 521006,
+   "jump": 1
+  },
+  "exit": 0,
+  "macs": 512000,
+  "outputs": 1000
+ },
+ "b1/op02": {
+  "total": 531962799,
+  "mix": {
+   "branch": 22491395,
+   "store": 2019601,
+   "load": 186717456,
+   "alu": 201892489,
+   "jump": 2,
+   "multiply": 118841856
+  },
+  "exit": 0,
+  "macs": 118013952,
+  "outputs": 802816
+ },
+ "b1/op05": {
+  "total": 475917941,
+  "mix": {
+   "alu": 167608335,
+   "store": 504913,
+   "load": 175832400,
+   "branch": 16159811,
+   "jump": 2,
+   "multiply": 115812480
+  },
+  "exit": 0,
+  "macs": 115605504,
+  "outputs": 200704
+ },
+ "b1/op06": {
+  "total": 475817676,
+  "mix": {
+   "alu": 167508070,
+   "store": 504913,
+   "load": 175832400,
+   "branch": 16159811,
+   "jump": 2,
+   "multiply": 115812480
+  },
+  "exit": 0,
+  "macs": 115605504,
+  "outputs": 200704
+ },
+ "b1/op08": {
+  "total": 475918309,
+  "mix": {
+   "alu": 167608703,
+   "store": 504913,
+   "load": 175832400,
+   "branch": 16159811,
+   "jump": 2,
+   "multiply": 115812480
+  },
+  "exit": 0,
+  "macs": 115605504,
+  "outputs": 200704
+ },
+ "b1/op09": {
+  "total": 475812983,
+  "mix": {
+   "alu": 167503377,
+   "store": 504913,
+   "load": 175832400,
+   "branch": 16159811,
+   "jump": 2,
+   "multiply": 115812480
+  },
+  "exit": 0,
+  "macs": 115605504,
+  "outputs": 200704
+ },
+ "b1/op12": {
+  "total": 237946690,
+  "mix": {
+   "alu": 83798924,
+   "store": 251681,
+   "load": 87912288,
+   "branch": 8079123,
+   "jump": 2,
+   "multiply": 57904672
+  },
+  "exit": 0,
+  "macs": 57802752,
+  "outputs": 100352
+ },
+ "b1/op13": {
+  "total": 469109532,
+  "mix": {
+   "alu": 163229542,
+   "store": 251681,
+   "load": 174616416,
+   "branch": 15304467,
+   "jump": 2,
+   "multiply": 115707424
+  },
+  "exit": 0,
+  "macs": 115605504,
+  "outputs": 100352
+ },
+ "b1/op14": {
+  "total": 32376170,
+  "mix": {
+   "alu": 13101492,
+   "store": 251681,
+   "load": 10841952,
+   "branch": 1656595,
+   "jump": 2,
+   "multiply": 6524448
+  },
+  "exit": 0,
+  "macs": 6422528,
+  "outputs": 100352
+ },
+ "b1/op16": {
+  "total": 469157683,
+  "mix": {
+   "alu": 163277693,
+   "store": 251681,
+   "load": 174616416,
+   "branch": 15304467,
+   "jump": 2,
+   "multiply": 115707424
+  },
+  "exit": 0,
+  "macs": 115605504,
+  "outputs": 100352
+ },
+ "b1/op17": {
+  "total": 469089570,
+  "mix": {
+   "alu": 163209580,
+   "store": 251681,
+   "load": 174616416,
+   "branch": 15304467,
+   "jump": 2,
+   "multiply": 115707424
+  },
+  "exit": 0,
+  "macs": 115605504,
+  "outputs": 100352
+ },
+ "b1/op20": {
+  "total": 234575611,
+  "mix": {
+   "alu": 81637361,
+   "store": 125653,
+   "load": 87307236,
+   "branch": 7652039,
+   "jump": 2,
+   "multiply": 57853320
+  },
+  "exit": 0,
+  "macs": 57802752,
+  "outputs": 50176
+ },
+ "b1/op21": {
+  "total": 465761167,
+  "mix": {
+   "alu": 161090693,
+   "store": 125653,
+   "load": 174011364,
+   "branch": 14877383,
+   "jump": 2,
+   "multiply": 115656072
+  },
+  "exit": 0,
+  "macs": 115605504,
+  "outputs": 50176
+ },
+ "b1/op22": {
+  "total": 29027898,
+  "mix": {
+   "alu": 10962736,
+   "store": 125653,
+   "load": 10236900,
+   "branch": 1229511,
+   "jump": 2,
+   "multiply": 6473096
+  },
+  "exit": 0,
+  "macs": 6422528,
+  "outputs": 50176
+ },
+ "b1/op24": {
+  "total": 465786556,
+  "mix": {
+   "alu": 161116082,
+   "store": 125653,
+   "load": 174011364,
+   "branch": 14877383,
+   "jump": 2,
+   "multiply": 115656072
+  },
+  "exit": 0,
+  "macs": 115605504,
+  "outputs": 50176
+ },
+ "b1/op25": {
+  "total": 465750271,
+  "mix": {
+   "alu": 161079797,
+   "store": 125653,
+   "load": 174011364,
+   "branch": 14877383,
+   "jump": 2,
+   "multiply": 115656072
+  },
+  "exit": 0,
+  "macs": 115605504,
+  "outputs": 50176
+ },
+ "b1/op28": {
+  "total": 232892541,
+  "mix": {
+   "alu": 80557726,
+   "store": 62786,
+   "load": 87005445,
+   "branch": 7438644,
+   "jump": 2,
+   "multiply": 57827938
+  },
+  "exit": 0,
+  "macs": 57802752,
+  "outputs": 25088
+ },
+ "b1/op29": {
+  "total": 464086583,
+  "mix": {
+   "alu": 160019544,
+   "store": 62786,
+   "load": 173709573,
+   "branch": 14663988,
+   "jump": 2,
+   "multiply": 115630690
+  },
+  "exit": 0,
+  "macs": 115605504,
+  "outputs": 25088
+ },
+ "b1/op30": {
+  "total": 27351325,
+  "mix": {
+   "alu": 9889598,
+   "store": 62786,
+   "load": 9935109,
+   "branch": 1016116,
+   "jump": 2,
+   "multiply": 6447714
+  },
+  "exit": 0,
+  "macs": 6422528,
+  "outputs": 25088
+ },
+ "b1/op32": {
+  "total": 464103661,
+  "mix": {
+   "alu": 160036622,
+   "store": 62786,
+   "load": 173709573,
+   "branch": 14663988,
+   "jump": 2,
+   "multiply": 115630690
+  },
+  "exit": 0,
+  "macs": 115605504,
+  "outputs": 25088
+ },
+ "b1/op33": {
+  "total": 464089500,
+  "mix": {
+   "alu": 160022461,
+   "store": 62786,
+   "load": 173709573,
+   "branch": 14663988,
+   "jump": 2,
+   "multiply": 115630690
+  },
+  "exit": 0,
+  "macs": 115605504,
+  "outputs": 25088
+ },
+ "b1/op36": {
+  "total": 2114538,
+  "mix": {
+   "store": 2518,
+   "branch": 72504,
+   "load": 780021,
+   "alu": 746491,
+   "jump": 2,
+   "multiply": 513002
+  },
+  "exit": 0,
+  "macs": 512000,
+  "outputs": 1000
+ },
+ "x0/op02": {
+  "total": 133327019,
+  "mix": {
+   "load": 30557199,
+   "store": 815375,
+   "alu": 71811207,
+   "branch": 14061828,
+   "jump": 2,
+   "multiply": 827904,
+   "qmac8": 15253504
+  },
+  "exit": 0,
+  "macs": 118013952,
+  "outputs": 802816
+ },
+ "x0/op05": {
+  "total": 91861425,
+  "mix": {
+   "load": 23595279,
+   "store": 203855,
+   "alu": 44570509,
+   "branch": 8834116,
+   "jump": 2,
+   "multiply": 206976,
+   "qmac8": 14450688
+  },
+  "exit": 0,
+  "macs": 115605504,
+  "outputs": 200704
+ },
+ "x0/op06": {
+  "total": 91761160,
+  "mix": {
+   "load": 23595279,
+   "store": 203855,
+   "alu": 44470244,
+   "branch": 8834116,
+   "jump": 2,
+   "multiply": 206976,
+   "qmac8": 14450688
+  },
+  "exit": 0,
+  "macs": 115605504,
+  "outputs": 200704
+ },
+ "x0/op08": {
+  "total": 91861793,
+  "mix": {
+   "load": 23595279,
+   "store": 203855,
+   "alu": 44570877,
+   "branch": 8834116,
+   "jump": 2,
+   "multiply": 206976,
+   "qmac8": 14450688
+  },
+  "exit": 0,
+  "macs": 115605504,
+  "outputs": 200704
+ },
+ "x0/op09": {
+  "total": 91756467,
+  "mix": {
+   "load": 23595279,
+   "store": 203855,
+   "alu": 44465551,
+   "branch": 8834116,
+   "jump": 2,
+   "multiply": 206976,
+   "qmac8": 14450688
+  },
+  "exit": 0,
+  "macs": 115605504,
+  "outputs": 200704
+ },
+ "x0/op12": {
+  "total": 45920782,
+  "mix": {
+   "load": 11794511,
+   "store": 101151,
+   "alu": 22281578,
+   "branch": 4416276,
+   "jump": 2,
+   "multiply": 101920,
+   "qmac8": 7225344
+  },
+  "exit": 0,
+  "macs": 57802752,
+  "outputs": 100352
+ },
+ "x0/op13": {
+  "total": 85612008,
+  "mix": {
+   "load": 22632527,
+   "store": 101151,
+   "alu": 40296772,
+   "branch": 8028948,
+   "jump": 2,
+   "multiply": 101920,
+   "qmac8": 14450688
+  },
+  "exit": 0,
+  "macs": 115605504,
+  "outputs": 100352
+ },
+ "x0/op14": {
+  "total": 10547254,
+  "mix": {
+   "load": 2160719,
+   "store": 101151,
+   "alu": 6175634,
+   "branch": 1205012,
+   "jump": 2,
+   "multiply": 101920,
+   "qmac8": 802816
+  },
+  "exit": 0,
+  "macs": 6422528,
+  "outputs": 100352
+ },
+ "x0/op16": {
+  "total": 85660159,
+  "mix": {
+   "load": 22632527,
+   "store": 101151,
+   "alu": 40344923,
+   "branch": 8028948,
+   "jump": 2,
+   "multiply": 101920,
+   "qmac8": 14450688
+  },
+  "exit": 0,
+  "macs": 115605504,
+  "outputs": 100352
+ },
+ "x0/op17": {
+  "total": 85592046,
+  "mix": {
+   "load": 22632527,
+   "store": 101151,
+   "alu": 40276810,
+   "branch": 8028948,
+   "jump": 2,
+   "multiply": 101920,
+   "qmac8": 14450688
+  },
+  "exit": 0,
+  "macs": 115605504,
+  "outputs": 100352
+ },
+ "x0/op20": {
+  "total": 42827435,
+  "mix": {
+   "load": 11315487,
+   "store": 50387,
+   "alu": 20171367,
+   "branch": 4014280,
+   "jump": 2,
+   "multiply": 50568,
+   "qmac8": 7225344
+  },
+  "exit": 0,
+  "macs": 57802752,
+  "outputs": 50176
+ },
+ "x0/op21": {
+  "total": 82541375,
+  "mix": {
+   "load": 22153503,
+   "store": 50387,
+   "alu": 38209275,
+   "branch": 7626952,
+   "jump": 2,
+   "multiply": 50568,
+   "qmac8": 14450688
+  },
+  "exit": 0,
+  "macs": 115605504,
+  "outputs": 50176
+ },
+ "x0/op22": {
+  "total": 7476714,
+  "mix": {
+   "load": 1681695,
+   "store": 50387,
+   "alu": 4088230,
+   "branch": 803016,
+   "jump": 2,
+   "multiply": 50568,
+   "qmac8": 802816
+  },
+  "exit": 0,
+  "macs": 6422528,
+  "outputs": 50176
+ },
+ "x0/op24": {
+  "total": 82566764,
+  "mix": {
+   "load": 22153503,
+   "store": 50387,
+   "alu": 38234664,
+   "branch": 7626952,
+   "jump": 2,
+   "multiply": 50568,
+   "qmac8": 14450688
+  },
+  "exit": 0,
+  "macs": 115605504,
+  "outputs": 50176
+ },
+ "x0/op25": {
+  "total": 82530479,
+  "mix": {
+   "load": 22153503,
+   "store": 50387,
+   "alu": 38198379,
+   "branch": 7626952,
+   "jump": 2,
+   "multiply": 50568,
+   "qmac8": 14450688
+  },
+  "exit": 0,
+  "macs": 115605504,
+  "outputs": 50176
+ },
+ "x0/op28": {
+  "total": 41282790,
+  "mix": {
+   "load": 11076563,
+   "store": 25152,
+   "alu": 19117114,
+   "branch": 3813429,
+   "jump": 2,
+   "multiply": 25186,
+   "qmac8": 7225344
+  },
+  "exit": 0,
+  "macs": 57802752,
+  "outputs": 25088
+ },
+ "x0/op29": {
+  "total": 81005216,
+  "mix": {
+   "load": 21914579,
+   "store": 25152,
+   "alu": 37163508,
+   "branch": 7426101,
+   "jump": 2,
+   "multiply": 25186,
+   "qmac8": 14450688
+  },
+  "exit": 0,
+  "macs": 115605504,
+  "outputs": 25088
+ },
+ "x0/op30": {
+  "total": 5938566,
+  "mix": {
+   "load": 1442771,
+   "store": 25152,
+   "alu": 3040474,
+   "branch": 602165,
+   "jump": 2,
+   "multiply": 25186,
+   "qmac8": 802816
+  },
+  "exit": 0,
+  "macs": 6422528,
+  "outputs": 25088
+ },
+ "x0/op32": {
+  "total": 81022294,
+  "mix": {
+   "load": 21914579,
+   "store": 25152,
+   "alu": 37180586,
+   "branch": 7426101,
+   "jump": 2,
+   "multiply": 25186,
+   "qmac8": 14450688
+  },
+  "exit": 0,
+  "macs": 115605504,
+  "outputs": 25088
+ },
+ "x0/op33": {
+  "total": 81008133,
+  "mix": {
+   "load": 21914579,
+   "store": 25152,
+   "alu": 37166425,
+   "branch": 7426101,
+   "jump": 2,
+   "multiply": 25186,
+   "qmac8": 14450688
+  },
+  "exit": 0,
+  "macs": 115605504,
+  "outputs": 25088
+ },
+ "x0/op36": {
+  "total": 413031,
+  "mix": {
+   "store": 1016,
+   "alu": 201487,
+   "load": 105519,
+   "branch": 40005,
+   "multiply": 1002,
+   "jump": 2,
+   "qmac8": 64000
+  },
+  "exit": 0,
+  "macs": 512000,
+  "outputs": 1000
+ },
+ "x1/op02": {
+  "total": 95246634,
+  "mix": {
+   "store": 802825,
+   "alu": 43816207,
+   "branch": 8442117,
+   "load": 26104076,
+   "jump": 1,
+   "multiply": 25088,
+   "qreq": 802816,
+   "qmac8": 15253504
+  },
+  "exit": 0,
+  "macs": 118013952,
+  "outputs": 802816
+ },
+ "x1/op05": {
+  "total": 82316906,
+  "mix": {
+   "store": 200713,
+   "alu": 37547343,
+   "branch": 7429189,
+   "load": 22481996,
+   "jump": 1,
+   "multiply": 6272,
+   "qreq": 200704,
+   "qmac8": 14450688
+  },
+  "exit": 0,
+  "macs": 115605504,
+  "outputs": 200704
+ },
+ "x1/op06": {
+  "total": 82316906,
+  "mix": {
+   "store": 200713,
+   "alu": 37547343,
+   "branch": 7429189,
+   "load": 22481996,
+   "jump": 1,
+   "multiply": 6272,
+   "qreq": 200704,
+   "qmac8": 14450688
+  },
+  "exit": 0,
+  "macs": 115605504,
+  "outputs": 200704
+ },
+ "x1/op08": {
+  "total": 82316906,
+  "mix": {
+   "store": 200713,
+   "alu": 37547343,
+   "branch": 7429189,
+   "load": 22481996,
+   "jump": 1,
+   "multiply": 6272,
+   "qreq": 200704,
+   "qmac8": 14450688
+  },
+  "exit": 0,
+  "macs": 115605504,
+  "outputs": 200704
+ },
+ "x1/op09": {
+  "total": 82316906,
+  "mix": {
+   "store": 200713,
+   "alu": 37547343,
+   "branch": 7429189,
+   "load": 22481996,
+   "jump": 1,
+   "multiply": 6272,
+   "qreq": 200704,
+   "qmac8": 14450688
+  },
+  "exit": 0,
+  "macs": 115605504,
+  "outputs": 200704
+ },
+ "x1/op12": {
+  "total": 41151418,
+  "mix": {
+   "store": 100361,
+   "alu": 18769759,
+   "branch": 3713813,
+   "load": 11240220,
+   "jump": 1,
+   "multiply": 1568,
+   "qreq": 100352,
+   "qmac8": 7225344
+  },
+  "exit": 0,
+  "macs": 57802752,
+  "outputs": 100352
+ },
+ "x1/op13": {
+  "total": 80890810,
+  "mix": {
+   "store": 100361,
+   "alu": 36833119,
+   "branch": 7326485,
+   "load": 22078236,
+   "jump": 1,
+   "multiply": 1568,
+   "qreq": 100352,
+   "qmac8": 14450688
+  },
+  "exit": 0,
+  "macs": 115605504,
+  "outputs": 100352
+ },
+ "x1/op14": {
+  "total": 5827514,
+  "mix": {
+   "store": 100361,
+   "alu": 2713439,
+   "branch": 502549,
+   "load": 1606428,
+   "jump": 1,
+   "multiply": 1568,
+   "qreq": 100352,
+   "qmac8": 802816
+  },
+  "exit": 0,
+  "macs": 6422528,
+  "outputs": 100352
+ },
+ "x1/op16": {
+  "total": 80890810,
+  "mix": {
+   "store": 100361,
+   "alu": 36833119,
+   "branch": 7326485,
+   "load": 22078236,
+   "jump": 1,
+   "multiply": 1568,
+   "qreq": 100352,
+   "qmac8": 14450688
+  },
+  "exit": 0,
+  "macs": 115605504,
+  "outputs": 100352
+ },
+ "x1/op17": {
+  "total": 80890810,
+  "mix": {
+   "store": 100361,
+   "alu": 36833119,
+   "branch": 7326485,
+   "load": 22078236,
+   "jump": 1,
+   "multiply": 1568,
+   "qreq": 100352,
+   "qmac8": 14450688
+  },
+  "exit": 0,
+  "macs": 115605504,
+  "outputs": 100352
+ },
+ "x1/op20": {
+  "total": 40443662,
+  "mix": {
+   "store": 50185,
+   "alu": 18415587,
+   "branch": 3663049,
+   "load": 11038928,
+   "jump": 1,
+   "multiply": 392,
+   "qreq": 50176,
+   "qmac8": 7225344
+  },
+  "exit": 0,
+  "macs": 57802752,
+  "outputs": 50176
+ },
+ "x1/op21": {
+  "total": 80183054,
+  "mix": {
+   "store": 50185,
+   "alu": 36478947,
+   "branch": 7275721,
+   "load": 21876944,
+   "jump": 1,
+   "multiply": 392,
+   "qreq": 50176,
+   "qmac8": 14450688
+  },
+  "exit": 0,
+  "macs": 115605504,
+  "outputs": 50176
+ },
+ "x1/op22": {
+  "total": 5119758,
+  "mix": {
+   "store": 50185,
+   "alu": 2359267,
+   "branch": 451785,
+   "load": 1405136,
+   "jump": 1,
+   "multiply": 392,
+   "qreq": 50176,
+   "qmac8": 802816
+  },
+  "exit": 0,
+  "macs": 6422528,
+  "outputs": 50176
+ },
+ "x1/op24": {
+  "total": 80183054,
+  "mix": {
+   "store": 50185,
+   "alu": 36478947,
+   "branch": 7275721,
+   "load": 21876944,
+   "jump": 1,
+   "multiply": 392,
+   "qreq": 50176,
+   "qmac8": 14450688
+  },
+  "exit": 0,
+  "macs": 115605504,
+  "outputs": 50176
+ },
+ "x1/op25": {
+  "total": 80183054,
+  "mix": {
+   "store": 50185,
+   "alu": 36478947,
+   "branch": 7275721,
+   "load": 21876944,
+   "jump": 1,
+   "multiply": 392,
+   "qreq": 50176,
+   "qmac8": 14450688
+  },
+  "exit": 0,
+  "macs": 115605504,
+  "outputs": 50176
+ },
+ "x1/op28": {
+  "total": 40091107,
+  "mix": {
+   "store": 25097,
+   "alu": 18239236,
+   "branch": 3637814,
+   "load": 10938429,
+   "jump": 1,
+   "multiply": 98,
+   "qreq": 25088,
+   "qmac8": 7225344
+  },
+  "exit": 0,
+  "macs": 57802752,
+  "outputs": 25088
+ },
+ "x1/op29": {
+  "total": 79830499,
+  "mix": {
+   "store": 25097,
+   "alu": 36302596,
+   "branch": 7250486,
+   "load": 21776445,
+   "jump": 1,
+   "multiply": 98,
+   "qreq": 25088,
+   "qmac8": 14450688
+  },
+  "exit": 0,
+  "macs": 115605504,
+  "outputs": 25088
+ },
+ "x1/op30": {
+  "total": 4767203,
+  "mix": {
+   "store": 25097,
+   "alu": 2182916,
+   "branch": 426550,
+   "load": 1304637,
+   "jump": 1,
+   "multiply": 98,
+   "qreq": 25088,
+   "qmac8": 802816
+  },
+  "exit": 0,
+  "macs": 6422528,
+  "outputs": 25088
+ },
+ "x1/op32": {
+  "total": 79830499,
+  "mix": {
+   "store": 25097,
+   "alu": 36302596,
+   "branch": 7250486,
+   "load": 21776445,
+   "jump": 1,
+   "multiply": 98,
+   "qreq": 25088,
+   "qmac8": 14450688
+  },
+  "exit": 0,
+  "macs": 115605504,
+  "outputs": 25088
+ },
+ "x1/op33": {
+  "total": 79830499,
+  "mix": {
+   "store": 25097,
+   "alu": 36302596,
+   "branch": 7250486,
+   "load": 21776445,
+   "jump": 1,
+   "multiply": 98,
+   "qreq": 25088,
+   "qmac8": 14450688
+  },
+  "exit": 0,
+  "macs": 115605504,
+  "outputs": 25088
+ },
+ "x1/op36": {
+  "total": 366051,
+  "mix": {
+   "branch": 33006,
+   "store": 1009,
+   "alu": 167020,
+   "multiply": 2,
+   "load": 100013,
+   "jump": 1,
+   "qreq": 1000,
+   "qmac8": 64000
+  },
+  "exit": 0,
+  "macs": 512000,
+  "outputs": 1000
+ }
+}

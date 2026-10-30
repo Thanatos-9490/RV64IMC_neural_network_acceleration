@@ -1,0 +1,517 @@
+{
+ "b0": {
+  "exit": 0,
+  "groups": {
+   "gemm": {
+    "alu": 5551072750,
+    "store": 2484964,
+    "load": 3653024399,
+    "branch": 1836466049,
+    "jump": 42,
+    "multiply": 1816618524
+   },
+   "im2col": {
+    "load": 3646391,
+    "alu": 11056335,
+    "multiply": 337878,
+    "branch": 4351130,
+    "jump": 53203,
+    "store": 3674244
+   },
+   "pad": {
+    "alu": 770770,
+    "load": 294834,
+    "store": 312212,
+    "multiply": 25,
+    "branch": 315705,
+    "jump": 657
+   },
+   "transpose": {
+    "jump": 1,
+    "multiply": 7,
+    "alu": 305102,
+    "branch": 151208,
+    "store": 150528,
+    "load": 150528
+   },
+   "maxpool": {
+    "load": 1806348,
+    "multiply": 226,
+    "alu": 12440442,
+    "store": 200713,
+    "branch": 5020850,
+    "jump": 401409
+   },
+   "add": {
+    "branch": 6773840,
+    "alu": 49249512,
+    "load": 6773944,
+    "store": 752792,
+    "jump": 16,
+    "multiply": 2257920
+   },
+   "avgpool": {
+    "jump": 1,
+    "alu": 80388,
+    "multiply": 1,
+    "branch": 27649,
+    "store": 512,
+    "load": 25088
+   },
+   "dispatch": {
+    "load": 1000,
+    "alu": 1053,
+    "jump": 130,
+    "store": 542,
+    "branch": 82
+   }
+  },
+  "verify_insns": 39838071,
+  "other": {
+   "?": 4986
+  }
+ },
+ "b1": {
+  "exit": 0,
+  "groups": {
+   "gemm": {
+    "alu": 2608382196,
+    "store": 6332989,
+    "branch": 248812685,
+    "load": 2748593375,
+    "jump": 63,
+    "multiply": 1816618524
+   },
+   "im2col": {
+    "load": 3646391,
+    "alu": 11056335,
+    "store": 3674244,
+    "branch": 4351130,
+    "jump": 53203,
+    "multiply": 337878
+   },
+   "pad": {
+    "multiply": 25,
+    "alu": 770770,
+    "load": 294834,
+    "store": 312212,
+    "branch": 315705,
+    "jump": 657
+   },
+   "transpose": {
+    "alu": 305102,
+    "branch": 151208,
+    "jump": 1,
+    "multiply": 7,
+    "store": 150528,
+    "load": 150528
+   },
+   "maxpool": {
+    "load": 1806348,
+    "alu": 12440442,
+    "multiply": 226,
+    "store": 200713,
+    "jump": 401409,
+    "branch": 5020850
+   },
+   "add": {
+    "load": 6773944,
+    "alu": 49249512,
+    "store": 752792,
+    "branch": 6773840,
+    "jump": 16,
+    "multiply": 2257920
+   },
+   "avgpool": {
+    "branch": 27649,
+    "multiply": 1,
+    "alu": 80388,
+    "jump": 1,
+    "store": 512,
+    "load": 25088
+   },
+   "dispatch": {
+    "load": 1000,
+    "store": 542,
+    "alu": 1053,
+    "jump": 130,
+    "branch": 82
+   }
+  },
+  "verify_insns": 39839967,
+  "other": {
+   "?": 4986
+  }
+ },
+ "x0": {
+  "exit": 0,
+  "groups": {
+   "gemm": {
+    "alu": 448501838,
+    "store": 2545432,
+    "jump": 63,
+    "branch": 133538457,
+    "load": 363344838,
+    "multiply": 2545180,
+    "qmac8": 227260928
+   },
+   "im2col": {
+    "load": 3646391,
+    "alu": 11056335,
+    "store": 3674244,
+    "branch": 4351130,
+    "multiply": 337878,
+    "jump": 53203
+   },
+   "pad": {
+    "store": 312212,
+    "jump": 657,
+    "alu": 770770,
+    "load": 294834,
+    "multiply": 25,
+    "branch": 315705
+   },
+   "transpose": {
+    "jump": 1,
+    "multiply": 7,
+    "alu": 305102,
+    "branch": 151208,
+    "store": 150528,
+    "load": 150528
+   },
+   "maxpool": {
+    "alu": 12440442,
+    "store": 200713,
+    "load": 1806348,
+    "multiply": 226,
+    "branch": 5020850,
+    "jump": 401409
+   },
+   "add": {
+    "alu": 49249512,
+    "store": 752792,
+    "branch": 6773840,
+    "load": 6773944,
+    "jump": 16,
+    "multiply": 2257920
+   },
+   "avgpool": {
+    "branch": 27649,
+    "multiply": 1,
+    "alu": 80388,
+    "jump": 1,
+    "store": 512,
+    "load": 25088
+   },
+   "dispatch": {
+    "load": 1000,
+    "jump": 130,
+    "alu": 1053,
+    "store": 542,
+    "branch": 82
+   }
+  },
+  "verify_insns": 39838063,
+  "other": {
+   "?": 4986
+  }
+ },
+ "x1": {
+  "exit": 0,
+  "groups": {
+   "gemm": {
+    "load": 350860768,
+    "alu": 358435966,
+    "jump": 42,
+    "store": 2484922,
+    "branch": 116145473,
+    "multiply": 60468,
+    "qreq": 2484712,
+    "qmac8": 227260928
+   },
+   "im2col": {
+    "load": 3646391,
+    "alu": 11056335,
+    "jump": 53203,
+    "store": 3674244,
+    "branch": 4351130,
+    "multiply": 337878
+   },
+   "pad": {
+    "alu": 770770,
+    "store": 312212,
+    "jump": 657,
+    "load": 294834,
+    "multiply": 25,
+    "branch": 315705
+   },
+   "transpose": {
+    "jump": 1,
+    "branch": 151208,
+    "multiply": 7,
+    "alu": 305102,
+    "store": 150528,
+    "load": 150528
+   },
+   "maxpool": {
+    "load": 1806348,
+    "jump": 401409,
+    "alu": 12440442,
+    "multiply": 226,
+    "store": 200713,
+    "branch": 5020850
+   },
+   "add": {
+    "store": 752792,
+    "alu": 49249512,
+    "jump": 16,
+    "load": 6773944,
+    "branch": 6773840,
+    "multiply": 2257920
+   },
+   "avgpool": {
+    "jump": 1,
+    "alu": 80388,
+    "multiply": 1,
+    "branch": 27649,
+    "store": 512,
+    "load": 25088
+   },
+   "dispatch": {
+    "load": 1000,
+    "jump": 130,
+    "alu": 1053,
+    "store": 542,
+    "branch": 82
+   }
+  },
+  "verify_insns": 39836519,
+  "other": {
+   "?": 4987
+  }
+ },
+ "x2": {
+  "exit": 0,
+  "groups": {
+   "gemm": {
+    "load": 9969313,
+    "alu": 16362602,
+    "store": 2484859,
+    "jump": 42,
+    "branch": 114903117,
+    "multiply": 60468,
+    "qreq": 2484712,
+    "ldpi": 340891392,
+    "qmac8": 227260928
+   },
+   "im2col": {
+    "alu": 11056335,
+    "store": 3674244,
+    "load": 3646391,
+    "multiply": 337878,
+    "branch": 4351130,
+    "jump": 53203
+   },
+   "pad": {
+    "alu": 770770,
+    "store": 312212,
+    "multiply": 25,
+    "jump": 657,
+    "load": 294834,
+    "branch": 315705
+   },
+   "transpose": {
+    "branch": 151208,
+    "jump": 1,
+    "multiply": 7,
+    "alu": 305102,
+    "store": 150528,
+    "load": 150528
+   },
+   "maxpool": {
+    "alu": 12440442,
+    "multiply": 226,
+    "load": 1806348,
+    "jump": 401409,
+    "store": 200713,
+    "branch": 5020850
+   },
+   "add": {
+    "alu": 49249512,
+    "branch": 6773840,
+    "load": 6773944,
+    "jump": 16,
+    "store": 752792,
+    "multiply": 2257920
+   },
+   "avgpool": {
+    "branch": 27649,
+    "multiply": 1,
+    "alu": 80388,
+    "jump": 1,
+    "store": 512,
+    "load": 25088
+   },
+   "dispatch": {
+    "load": 1000,
+    "jump": 130,
+    "alu": 1053,
+    "store": 542,
+    "branch": 82
+   }
+  },
+  "verify_insns": 39837365,
+  "other": {
+   "?": 4987
+  }
+ },
+ "x1t": {
+  "exit": 0,
+  "groups": {
+   "gemm": {
+    "alu": 353809160,
+    "branch": 116488604,
+    "jump": 2727,
+    "load": 345413486,
+    "store": 2503906,
+    "multiply": 63,
+    "qreq": 2484712,
+    "qmac8": 227260928
+   },
+   "im2col": {
+    "load": 3646391,
+    "multiply": 337878,
+    "alu": 11056335,
+    "store": 3674244,
+    "jump": 53203,
+    "branch": 4351130
+   },
+   "pad": {
+    "multiply": 25,
+    "store": 312212,
+    "load": 294834,
+    "alu": 770770,
+    "branch": 315705,
+    "jump": 657
+   },
+   "transpose": {
+    "branch": 151208,
+    "jump": 1,
+    "multiply": 7,
+    "alu": 305102,
+    "load": 150528,
+    "store": 150528
+   },
+   "maxpool": {
+    "load": 1806348,
+    "jump": 401409,
+    "multiply": 226,
+    "alu": 12440442,
+    "store": 200713,
+    "branch": 5020850
+   },
+   "add": {
+    "alu": 49249512,
+    "branch": 6773840,
+    "load": 6773944,
+    "store": 752792,
+    "jump": 16,
+    "multiply": 2257920
+   },
+   "avgpool": {
+    "jump": 1,
+    "alu": 80388,
+    "branch": 27649,
+    "multiply": 1,
+    "store": 512,
+    "load": 25088
+   },
+   "dispatch": {
+    "jump": 130,
+    "load": 1000,
+    "store": 542,
+    "alu": 1053,
+    "branch": 82
+   }
+  },
+  "verify_insns": 39836213,
+  "other": {
+   "?": 4986
+  }
+ },
+ "x2t": {
+  "exit": 0,
+  "groups": {
+   "gemm": {
+    "alu": 14346702,
+    "branch": 115246248,
+    "store": 2501200,
+    "load": 4519388,
+    "multiply": 63,
+    "jump": 2727,
+    "qreq": 2484712,
+    "ldpi": 340891392,
+    "qmac8": 227260928
+   },
+   "im2col": {
+    "load": 3646391,
+    "alu": 11056335,
+    "jump": 53203,
+    "store": 3674244,
+    "multiply": 337878,
+    "branch": 4351130
+   },
+   "pad": {
+    "alu": 770770,
+    "load": 294834,
+    "multiply": 25,
+    "store": 312212,
+    "branch": 315705,
+    "jump": 657
+   },
+   "transpose": {
+    "alu": 305102,
+    "branch": 151208,
+    "multiply": 7,
+    "jump": 1,
+    "load": 150528,
+    "store": 150528
+   },
+   "maxpool": {
+    "load": 1806348,
+    "store": 200713,
+    "multiply": 226,
+    "alu": 12440442,
+    "branch": 5020850,
+    "jump": 401409
+   },
+   "add": {
+    "alu": 49249512,
+    "branch": 6773840,
+    "jump": 16,
+    "load": 6773944,
+    "store": 752792,
+    "multiply": 2257920
+   },
+   "avgpool": {
+    "jump": 1,
+    "alu": 80388,
+    "multiply": 1,
+    "branch": 27649,
+    "store": 512,
+    "load": 25088
+   },
+   "dispatch": {
+    "load": 1000,
+    "alu": 1053,
+    "store": 542,
+    "jump": 130,
+    "branch": 82
+   }
+  },
+  "verify_insns": 39836439,
+  "other": {
+   "?": 4986
+  }
+ }
+}
