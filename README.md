@@ -2,10 +2,10 @@
 
 ISA extension + Spike implementation + instruction-level evaluation for
 **ResNet-18, W8A8**.  See `docs/DESIGN.md` (decisions, encodings) and
-`docs/EXPERIMENTS.md` (measurements and their limits).
+`docs/EXPERIMENTS.md` (measurements.
 
 
-## Cache design exploration (extension, +5%)
+## Cache design exploration
 
 `make cache` sweeps size / associativity / line size / LRU-PLRU-FIFO-RANDOM on the
 full inference (31 caches per run, B1 vs X1 vs X1T).  Main finding: the same
